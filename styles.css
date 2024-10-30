@@ -9,14 +9,14 @@ body {
     align-items: center;
 }
 
-/* Titre principal */
+/* Le titre principal */
 h1 {
     color: #333;
     margin-top: 20px;
     font-size: 24px;
 }
 
-/* Conteneur principal pour le forum */
+/* C'est le conteneur principal */
 .container {
     width: 100%;
     max-width: 600px;
@@ -55,7 +55,7 @@ input[type="text"]:focus, textarea:focus {
     outline: none;
 }
 
-/* Bouton de soumission */
+/* Le bouton d'éxécution */
 button {
     padding: 12px;
     border: none;
@@ -71,7 +71,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Liste des commentaires - Style forum */
+/* Liste des commentaires */
 h2 {
     font-size: 20px;
     color: #333;
